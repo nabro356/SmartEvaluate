@@ -74,22 +74,22 @@
           <div class="w-100"></div>
           <div class="col-md-3 d-flex">
           	<div class="info bg-white p-4">
-	            <p><span>Address:</span><br> Mangalore, Karnataka, INDIA </p>
+	            <p><span>Address:</span><br> Vijayawada, Andhra Pradesh </p>
 	          </div>
           </div>
           <div class="col-md-3 d-flex">
           	<div class="info bg-white p-4">
-	            <p><span>Phone:</span> <a href="tel://1234567920"><br>+91 948 321 4259 </a></p>
+	            <p><span>Phone:</span> <a href="tel://1234567920"><br>+91 </a></p>
 	          </div>
           </div>
           <div class="col-md-3 d-flex">
           	<div class="info bg-white p-4">
-	            <p><span>Email:</span> <a href="mailto:info@yoursite.com"><br>kashyapbhat1@gmail.com</a></p>
+	            <p><span>Email:</span> <a href="mailto:info@yoursite.com"><br>abc@gmail.com</a></p>
 	          </div>
           </div>
           <div class="col-md-3 d-flex">
           	<div class="info bg-white p-4">
-	            <p><span>Website</span> <a href="http://www.kashyapbhat.in/"><br>www.kashyapbhat.in</a></p>
+	            <p><span>Website</span> <a href=""><br>www.abc.in</a></p>
 	          </div>
           </div>
         </div>
@@ -132,9 +132,9 @@
               <h2 class="ftco-heading-2">Automated Evaluation Platform</h2>
               
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                <li class="ftco-animate"><a href="https://twitter.com/bobbikashyap"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="https://www.facebook.com/kashibobbi"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="https://www.instagram.com/mr__bhat/"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="https://twitter.com/"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.facebook.com/"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.instagram.com/"><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
           </div>
